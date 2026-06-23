@@ -5,9 +5,19 @@
 
 ## 👩‍💻 About Me
 
-Cloud and DevOps Engineer with experience in CI/CD automation, Infrastructure as Code, containerization, and Kubernetes orchestration.
+Cloud and DevOps Engineer skilled in CI/CD automation, Infrastructure as Code, containerization, and Kubernetes orchestration.
 
-Currently building hands-on projects and continuously learning modern DevOps practices.
+Passionate about building scalable cloud solutions and continuously exploring modern DevOps practices.
+
+## 📂 Portfolio Projects
+
+✅ CI/CD Pipeline using GitHub Actions, Jenkins, Docker and Kubernetes
+
+🚧 Terraform AWS Infrastructure (In Progress)
+
+🚧 Monitoring with Prometheus and Grafana (Coming Soon)
+
+🚧 DevSecOps Security Pipeline (Coming Soon)
 
 ---
 
@@ -66,12 +76,8 @@ Currently building hands-on projects and continuously learning modern DevOps pra
 
 ## 📫 Connect With Me
 
-LinkedIn:
-www.linkedin.com/in/mounika-k-1b984632a
+🔗 LinkedIn: www.linkedin.com/in/mounika-k-1b984632a
 
-Email:
-mounika.k0398@gmail.com
+💻 GitHub: github.com/mounikakonuganti3-creator
 
----
-
-⭐ Thanks for visiting my profile!
+📧 Email: mounika.k0398@gmail.com
